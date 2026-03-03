@@ -4,10 +4,12 @@ class Solution(object):
         stack = []
 
         for char in s:
-            if char in mapping.values():
-                stack.append(char)
-            elif char in mapping:
-                if not stack or mapping[char] != stack.pop():
+            if char in mapping:
+                top = stack.pop() if stack else '#'
+
+                if mapping[char] != top:
                     return False
+            else:
+                stack.append(char)
         return not stack
         
