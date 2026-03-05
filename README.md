@@ -94,6 +94,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0322-coin-change](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0322-coin-change/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -113,6 +114,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,4 +131,12 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0584-find-customer-referee](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0584-find-customer-referee/) | Easy |
 | [0620-not-boring-movies](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0620-not-boring-movies/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
