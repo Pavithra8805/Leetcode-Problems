@@ -126,5 +126,6 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0175-combine-two-tables/) | Easy |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0584-find-customer-referee](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0584-find-customer-referee/) | Easy |
 | [0620-not-boring-movies](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0620-not-boring-movies/) | Easy |
 <!---LeetCode Topics End-->
