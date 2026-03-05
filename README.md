@@ -121,4 +121,8 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
