@@ -197,4 +197,13 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0189-rotate-array](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0189-rotate-array/) | Medium |
+| [0258-add-digits](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0258-add-digits/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
