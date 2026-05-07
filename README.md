@@ -117,6 +117,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0013-roman-to-integer](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0344-reverse-string](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0344-reverse-string/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -181,6 +182,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0015-3sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0015-3sum/) | Medium |
 | [0189-rotate-array](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0344-reverse-string/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
