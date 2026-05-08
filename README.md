@@ -202,6 +202,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0013-roman-to-integer](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0070-climbing-stairs](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0189-rotate-array/) | Medium |
+| [0231-power-of-two](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0258-add-digits/) | Easy |
 | [0509-fibonacci-number](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 ## Simulation
@@ -215,10 +216,15 @@ If you are also practicing with friends, feel free to fork and maintain your own
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
