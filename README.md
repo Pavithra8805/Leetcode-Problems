@@ -102,6 +102,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3668-restore-finishing-order](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/3668-restore-finishing-order/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,6 +155,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0013-roman-to-integer](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3668-restore-finishing-order](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/3668-restore-finishing-order/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
