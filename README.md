@@ -95,6 +95,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0001-two-sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0015-3sum/) | Medium |
+| [0039-combination-sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0039-combination-sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0078-subsets/) | Medium |
 | [0189-rotate-array](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0189-rotate-array/) | Medium |
@@ -174,6 +175,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0039-combination-sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0039-combination-sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0078-subsets/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1980-find-unique-binary-string/) | Medium |
