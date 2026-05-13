@@ -231,6 +231,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
@@ -247,4 +248,5 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0206-reverse-linked-list](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
