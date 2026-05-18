@@ -95,6 +95,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0001-two-sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0015-3sum/) | Medium |
+| [0035-search-insert-position](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0039-combination-sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0078-subsets/) | Medium |
@@ -251,4 +252,8 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0021-merge-two-sorted-lists](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0206-reverse-linked-list/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
