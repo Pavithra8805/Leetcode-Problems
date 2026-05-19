@@ -95,6 +95,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0001-two-sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0015-3sum/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0039-combination-sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0047-permutations-ii/) | Medium |
@@ -256,6 +257,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
