@@ -100,6 +100,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0039-combination-sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0039-combination-sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0078-subsets/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
@@ -164,6 +165,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0001-two-sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0763-partition-labels](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0763-partition-labels/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -295,4 +297,8 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0763-partition-labels](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0763-partition-labels/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
