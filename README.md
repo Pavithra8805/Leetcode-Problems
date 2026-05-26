@@ -141,6 +141,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0155-min-stack](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
@@ -196,6 +197,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Queue
