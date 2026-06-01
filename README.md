@@ -123,6 +123,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0322-coin-change/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -220,14 +221,17 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
