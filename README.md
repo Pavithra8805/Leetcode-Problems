@@ -189,6 +189,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0015-3sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0015-3sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0049-group-anagrams/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0912-sort-an-array](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 ## Backtracking
@@ -205,6 +206,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0155-min-stack](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0295-find-median-from-data-stream/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,6 +218,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0015-3sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0015-3sum/) | Medium |
 | [0189-rotate-array](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0344-reverse-string](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0344-reverse-string/) | Easy |
 | [0763-partition-labels](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0763-partition-labels/) | Medium |
 ## Tree
@@ -293,6 +296,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0912-sort-an-array](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -318,4 +322,8 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0295-find-median-from-data-stream/) | Hard |
 <!---LeetCode Topics End-->
