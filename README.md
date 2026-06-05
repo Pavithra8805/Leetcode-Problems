@@ -106,6 +106,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0189-rotate-array](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0322-coin-change](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0322-coin-change/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0739-daily-temperatures/) | Medium |
@@ -174,6 +175,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0763-partition-labels](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0763-partition-labels/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -190,6 +192,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0047-permutations-ii](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 ## Backtracking
@@ -292,11 +295,13 @@ If you are also practicing with friends, feel free to fork and maintain your own
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -305,6 +310,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
@@ -313,6 +319,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -326,4 +333,8 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
