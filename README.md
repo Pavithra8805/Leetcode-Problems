@@ -119,6 +119,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0322-coin-change/) | Medium |
@@ -249,6 +250,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0050-powx-n/) | Medium |
+| [0062-unique-paths](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0231-power-of-two/) | Easy |
@@ -339,4 +341,8 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
