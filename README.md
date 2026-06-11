@@ -100,6 +100,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0039-combination-sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0039-combination-sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0049-group-anagrams/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0078-subsets/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -120,6 +121,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0062-unique-paths/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0322-coin-change/) | Medium |
@@ -160,6 +162,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Database
 | Problem Name | Difficulty |
