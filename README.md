@@ -136,6 +136,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
@@ -178,6 +179,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0049-group-anagrams/) | Medium |
@@ -353,6 +355,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
