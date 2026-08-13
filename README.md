@@ -127,6 +127,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0198-house-robber](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
+| [1641-count-sorted-vowel-strings](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -262,6 +263,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0231-power-of-two](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0258-add-digits/) | Easy |
 | [0509-fibonacci-number](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
+| [1641-count-sorted-vowel-strings](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -352,6 +354,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0062-unique-paths/) | Medium |
+| [1641-count-sorted-vowel-strings](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
