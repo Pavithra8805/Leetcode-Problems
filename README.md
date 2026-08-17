@@ -117,6 +117,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3660-jump-game-ix](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/3660-jump-game-ix/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/3668-restore-finishing-order/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -129,6 +130,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0509-fibonacci-number](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1641-count-sorted-vowel-strings](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1641-count-sorted-vowel-strings/) | Medium |
+| [3660-jump-game-ix](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/3660-jump-game-ix/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
