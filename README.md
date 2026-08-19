@@ -117,6 +117,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0704-binary-search](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0739-daily-temperatures/) | Medium |
 | [0912-sort-an-array](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -134,6 +135,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0198-house-robber](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
+| [0931-minimum-falling-path-sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1641-count-sorted-vowel-strings](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [3660-jump-game-ix](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/3660-jump-game-ix/) | Medium |
@@ -176,6 +178,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0064-minimum-path-sum/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Database
 | Problem Name | Difficulty |
