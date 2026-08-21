@@ -6,7 +6,6 @@ class Solution:
 
         for i in range(m):
             for j in range(n):
-
                 if i == 0 and j == 0:
                     path[i][j] = grid[i][j]
 
