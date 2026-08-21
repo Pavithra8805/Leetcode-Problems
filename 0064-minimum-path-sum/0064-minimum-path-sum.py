@@ -16,9 +16,6 @@ class Solution:
                     path[i][j] = grid[i][j] + path[i - 1][j]
 
                 else:
-                    path[i][j] = grid[i][j] + min(
-                        path[i - 1][j],
-                        path[i][j - 1]
-                    )
+                    path[i][j] = grid[i][j] + min(path[i - 1][j], path[i][j - 1])
 
         return path[m - 1][n - 1]
