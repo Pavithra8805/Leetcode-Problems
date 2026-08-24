@@ -113,6 +113,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0209-minimum-size-subarray-sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0283-move-zeroes](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0322-coin-change](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0322-coin-change/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
@@ -136,6 +137,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0198-house-robber](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0322-coin-change/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0509-fibonacci-number](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -147,6 +149,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0100-same-tree](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0322-coin-change/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,6 +183,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0064-minimum-path-sum/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0931-minimum-falling-path-sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Database
@@ -261,6 +265,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0094-binary-tree-inorder-traversal](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,6 +305,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0070-climbing-stairs/) | Easy |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0509-fibonacci-number](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -385,4 +391,16 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 <!---LeetCode Topics End-->
