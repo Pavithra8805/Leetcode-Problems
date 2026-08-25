@@ -14,7 +14,5 @@ class Solution(object):
 
             no_del = n1
             one_del = n2
-
             res = max(res, no_del, one_del)
-
         return res
