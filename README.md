@@ -123,6 +123,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2498-frog-jump-ii](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/2498-frog-jump-ii/) | Medium |
 | [3660-jump-game-ix](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/3660-jump-game-ix/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/3668-restore-finishing-order/) | Easy |
 ## Dynamic Programming
@@ -326,6 +327,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0704-binary-search](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
+| [2498-frog-jump-ii](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/2498-frog-jump-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -361,6 +363,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0045-jump-game-ii](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0055-jump-game/) | Medium |
 | [0763-partition-labels](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0763-partition-labels/) | Medium |
+| [2498-frog-jump-ii](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/2498-frog-jump-ii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
