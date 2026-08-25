@@ -111,6 +111,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0189-rotate-array](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0216-combination-sum-iii/) | Medium |
 | [0283-move-zeroes](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0322-coin-change](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
@@ -232,6 +233,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0039-combination-sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0039-combination-sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0078-subsets/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0216-combination-sum-iii/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Design
 | Problem Name | Difficulty |
