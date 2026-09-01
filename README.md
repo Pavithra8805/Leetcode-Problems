@@ -116,6 +116,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0322-coin-change](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0403-frog-jump](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0403-frog-jump/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0739-daily-temperatures/) | Medium |
@@ -140,6 +141,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0198-house-robber](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0403-frog-jump](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0403-frog-jump/) | Hard |
 | [0509-fibonacci-number](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
