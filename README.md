@@ -119,6 +119,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0347-top-k-frequent-elements](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0403-frog-jump](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0403-frog-jump/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0739-daily-temperatures/) | Medium |
 | [0912-sort-an-array](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
@@ -211,6 +212,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0128-longest-consecutive-sequence](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0763-partition-labels](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0763-partition-labels/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/3668-restore-finishing-order/) | Easy |
@@ -396,6 +398,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
