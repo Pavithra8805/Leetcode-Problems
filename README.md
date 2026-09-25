@@ -166,6 +166,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0020-valid-parentheses](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0344-reverse-string](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0344-reverse-string/) | Easy |
+| [0394-decode-string](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0394-decode-string/) | Medium |
 | [0763-partition-labels](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0763-partition-labels/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -179,6 +180,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0155-min-stack](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0394-decode-string](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0739-daily-temperatures/) | Medium |
 ## Trie
@@ -308,6 +310,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0050-powx-n](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0231-power-of-two/) | Easy |
+| [0394-decode-string](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
