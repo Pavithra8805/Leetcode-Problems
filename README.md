@@ -99,6 +99,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0035-search-insert-position](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0039-combination-sum/) | Medium |
 | [0045-jump-game-ii](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0045-jump-game-ii/) | Medium |
+| [0046-permutations](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0055-jump-game/) | Medium |
@@ -238,6 +239,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0039-combination-sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0039-combination-sum/) | Medium |
+| [0046-permutations](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0078-subsets/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0216-combination-sum-iii/) | Medium |
