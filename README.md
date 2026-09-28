@@ -241,6 +241,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0047-permutations-ii](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0078-subsets/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0216-combination-sum-iii/) | Medium |
+| [0401-binary-watch](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0401-binary-watch/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -323,6 +324,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | ------- | ------- |
 | [0078-subsets](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0078-subsets/) | Medium |
 | [0231-power-of-two](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0231-power-of-two/) | Easy |
+| [0401-binary-watch](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0401-binary-watch/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
