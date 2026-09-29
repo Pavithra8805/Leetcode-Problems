@@ -119,6 +119,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0403-frog-jump](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0403-frog-jump/) | Hard |
+| [0455-assign-cookies](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
@@ -232,6 +233,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0049-group-anagrams](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0455-assign-cookies](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0455-assign-cookies/) | Easy |
 | [0912-sort-an-array](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 ## Backtracking
@@ -265,6 +267,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0283-move-zeroes](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0344-reverse-string](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0344-reverse-string/) | Easy |
+| [0455-assign-cookies](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0455-assign-cookies/) | Easy |
 | [0763-partition-labels](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0763-partition-labels/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -376,6 +379,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0055-jump-game/) | Medium |
+| [0455-assign-cookies](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0455-assign-cookies/) | Easy |
 | [0763-partition-labels](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0763-partition-labels/) | Medium |
 | [2498-frog-jump-ii](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/2498-frog-jump-ii/) | Medium |
 ## Union-Find
@@ -426,4 +430,8 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
