@@ -103,6 +103,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0047-permutations-ii](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0056-merge-intervals/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0078-subsets/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -233,6 +234,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0015-3sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0015-3sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0056-merge-intervals/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0455-assign-cookies/) | Easy |
@@ -437,5 +439,6 @@ If you are also practicing with friends, feel free to fork and maintain your own
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0056-merge-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
