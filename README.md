@@ -124,6 +124,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0560-subarray-sum-equals-k](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0739-daily-temperatures/) | Medium |
+| [0860-lemonade-change](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0860-lemonade-change/) | Easy |
 | [0912-sort-an-array](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
@@ -381,6 +382,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0055-jump-game](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0455-assign-cookies/) | Easy |
 | [0763-partition-labels](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0763-partition-labels/) | Medium |
+| [0860-lemonade-change](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0860-lemonade-change/) | Easy |
 | [2498-frog-jump-ii](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/2498-frog-jump-ii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
