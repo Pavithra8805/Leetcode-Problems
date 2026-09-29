@@ -108,6 +108,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0134-gas-station](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0134-gas-station/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0198-house-robber/) | Medium |
@@ -380,6 +381,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0055-jump-game/) | Medium |
+| [0134-gas-station](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0134-gas-station/) | Medium |
 | [0455-assign-cookies](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0455-assign-cookies/) | Easy |
 | [0763-partition-labels](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0763-partition-labels/) | Medium |
 | [0860-lemonade-change](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0860-lemonade-change/) | Easy |
