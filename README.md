@@ -126,6 +126,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0560-subarray-sum-equals-k](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0739-daily-temperatures/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0860-lemonade-change](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0860-lemonade-change/) | Easy |
 | [0912-sort-an-array](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
@@ -150,6 +151,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0403-frog-jump](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0403-frog-jump/) | Hard |
 | [0509-fibonacci-number](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1641-count-sorted-vowel-strings](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/1641-count-sorted-vowel-strings/) | Medium |
