@@ -176,6 +176,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0049-group-anagrams/) | Medium |
+| [0058-length-of-last-word](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0058-length-of-last-word/) | Easy |
 | [0344-reverse-string](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0344-reverse-string/) | Easy |
 | [0394-decode-string](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0394-decode-string/) | Medium |
 | [0763-partition-labels](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0763-partition-labels/) | Medium |
