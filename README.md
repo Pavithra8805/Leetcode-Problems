@@ -96,6 +96,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | [0014-longest-common-prefix](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0039-combination-sum/) | Medium |
@@ -275,6 +276,7 @@ If you are also practicing with friends, feel free to fork and maintain your own
 | ------- | ------- |
 | [0015-3sum](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Pavithra8805/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
